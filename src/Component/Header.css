@@ -1,0 +1,31 @@
+.header{
+    height:60px;
+    width:1500px;
+    background-color: darkslateblue;
+    display: flex;
+}
+.logo{
+    margin-top: 0.5rem;
+    height: 40px;
+    margin-left:8rem;
+}
+.Text{
+    margin-top: 18px;
+    color: white;
+    font-size: medium;
+    font-family: Arial;
+}
+.search-icon i{
+    margin-top: 12px;
+    margin-left: 2rem;
+    color:white;
+    font-weight: lighter;
+    
+    font-size: x-large;
+}
+.comp{
+    margin:1rem;
+    color:white;
+    font-size: medium;
+    
+}

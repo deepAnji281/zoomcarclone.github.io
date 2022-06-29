@@ -1,0 +1,43 @@
+
+.banner-card{
+    display: flex;
+    background-color: black;
+}
+
+
+.banner-card img{
+   
+    height: 500px;
+    width: 500px;
+}
+.banner-card h1{
+    margin-top: 8rem;
+    margin-left: 5rem;
+    font-size: 50px;
+    color:white;
+    font-family: Arial;
+}
+.banner-card h3{
+    color:white;
+    font-family: Arial;
+    font-size: 30px;
+   margin-left: 5rem;
+
+}
+.banner-card p{
+    color: white;
+    font-family: Arial;
+    font-size: 30px;
+   margin-left: 5rem;
+}
+.banner-card button{
+    background-color: blueviolet;
+    height: 50px;
+    width:300px;
+    margin-left: 14rem;
+    font-size: large;
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+
+}
